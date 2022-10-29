@@ -2,6 +2,10 @@
   "name": "next-ts",
   "version": "0.1.0",
   "private": true,
+   "engines": {
+    "node": "16.15.1",
+    "npm": "8.11.1"
+  },
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
     "@emotion/react": "^11.10.5",
